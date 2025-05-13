@@ -1,4 +1,4 @@
-# Álvaro's Portfolio de Ingeniería 👨💻⚡  
+# Álvaro Gil Sánchez 👨💻⚡  
 **Físico | Apasionado por Sistemas Integrados y Software Embebido**  
 
 ¡Hola! Combino **electrónica, programación y física** para crear soluciones técnicas. Aquí verás proyectos donde hardware y software trabajan juntos.
