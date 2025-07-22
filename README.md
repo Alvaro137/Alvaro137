@@ -35,11 +35,40 @@ Estoy especialmente interesado en los sectores **tecnológico** e **industrial**
 
 ## 🛠️ Proyectos Destacados  
 
-### 1. [Dashboard Meteorológico en Tiempo Real](https://github.com/Alvaro137/dashboard-meteorologico)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-Visualización_de_Datos-yellow?logo=javascript)](https://alvaro137.github.io)  
-- **Descripción**: Interfaz web para monitorear datos de la estación meteorológica.  
-- **Stack**: Javascript.
-- **Demo**: [Ver en vivo](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
+### 1. 🌦️ Dashboard Meteorológico en Tiempo Real  
+[![JavaScript](https://img.shields.io/badge/JavaScript-Visualización_de_Datos-yellow?logo=javascript)](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
+**Repositorio:** https://github.com/Alvaro137/dashboard-meteorologico  
+**Demo:** [Ver en vivo](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
+
+**Descripción:**  
+Interfaz web 100 % estática (HTML/CSS/JS) para visualizar en tiempo real los datos de una estación meteorológica. Incluye:
+
+- Gráficos interactivos filtrables por fecha (charts.js)  
+- Tablas resumen de temperatura, humedad, presión, viento y lluvia  
+- Diseño responsive para escritorio y móvil  
+
+**Stack:**  
+HTML • CSS • JavaScript • [charts.js](https://www.chartjs.org/) • GitHub Pages  
+
+---
+
+### 2. 📡 Sainlogic_esp32_wifi  
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-Firmware-blue?logo=platformio)](https://github.com/Alvaro137/Sainlogic_esp32_wifi)  
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Web-green)](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
+
+**Repositorio:** https://github.com/Alvaro137/Sainlogic_esp32_wifi  
+**Demo:** [Ver en vivo](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
+
+**Descripción:**  
+Proyecto completo que integra un microcontrolador ESP32 con una interfaz web estática para capturar y mostrar datos meteorológicos en tiempo real. Destaca por:
+
+- Firmware en C++ para ESP32 (PlatformIO) que lee sensores y publica datos vía HTTP/MQTT  
+- Web estática en HTML/CSS/JS con gráficos en charts.js  
+- Fácil despliegue en GitHub Pages o cualquier hosting estático  
+
+**Stack:**  
+C++ (ESP32) • PlatformIO • HTML • CSS • JavaScript • ThingSpeak / HTTP • GitHub Pages  
+
 
 ### 🚧 **Proyectos en Preparación (Código por venir)**  
 - **Estación Meteorológica IoT**: Adición de WiFi a una estación meteorológica Sainlogic con un ESP32 (C++), integración con MQTT.  
