@@ -1,21 +1,45 @@
-# Álvaro Gil Sánchez 👨💻⚡  
-**Físico | Apasionado por Sistemas Integrados y Software Embebido**  
+# 👋 ¡Hola! Soy Álvaro
+Graduado en física | Análisis de datos | ML | Python | C++ | I+D
 
-¡Hola! Combino **electrónica, programación y física** para crear soluciones técnicas. Aquí verás proyectos donde hardware y software trabajan juntos.
+Físico graduado por la Universidad de Salamanca (USAL), con un fuerte interés en el análisis de datos, el desarrollo de software y la resolución de problemas complejos. Durante mi Trabajo de Fin de Grado —*“Caracterización de dispositivos memristivos en materiales 2D”*— apliqué técnicas de automatización y análisis de datos que despertaron mi interés por el potencial del **data science** más allá del laboratorio.
+
+---
+
+## 🧠 Sobre mí
+
+- 🎓 Formación sólida en física, matemáticas y estadística.
+- 🧪 Experiencia en investigación y proyectos I+D.
+- 🧰 Programador en **Python**, **C++** y **Fortran**, con experiencia en desarrollo de herramientas científicas y análisis de datos.
+- 📈 Apasionado por la ciencia de datos, machine learning y el uso de la tecnología para resolver problemas reales.
+- 🧑‍💻 He realizado varios **proyectos personales** que puedes consultar en este perfil.
+- 🧠 En constante aprendizaje: completé formaciones en ciencia de datos, aprendizaje automático y desarrollo backend.
+
+---
+
+## 🎯 Busco...
+
+Actualmente estoy buscando una oportunidad como:
+
+- Junior **Data Scientist**
+- **Analista de Datos**
+- **Desarrollador de Software** (con orientación científica o industrial)
+
+Estoy especialmente interesado en los sectores **tecnológico** e **industrial**, donde pueda aplicar mis conocimientos científicos y seguir creciendo profesionalmente en entornos colaborativos y con impacto real.
+
+> ✅ Disponible para incorporación inmediata  
+> 🤝 Abierto a colaboraciones, mentoría o networking  
+
+
+---
+
 
 ## 🛠️ Proyectos Destacados  
 
-### 1. [God Of Workout (App Flutter)](https://github.com/Alvaro137/god-of-workout)  
-[![Flutter](https://img.shields.io/badge/Flutter-App_Móvil_Deportiva-blue?logo=flutter)](https://github.com/Alvaro137/God_of_Workout)  
-- **Estado**: En desarrollo (versión alpha disponible)  
-- **Funcionalidad**: Gamificación de entrenamientos (calistenia/atletismo) + métricas de entrenamiento y sobrecarga progresiva automatizada.  
-- **Tecnologías**: Dart, Python, SqLite, Flutter.  
-
-### 2. [Dashboard Meteorológico en Tiem Real](https://github.com/Alvaro137/dashboard-meteorologico)  
+### 1. [Dashboard Meteorológico en Tiempo Real](https://github.com/Alvaro137/dashboard-meteorologico)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-Visualización_de_Datos-yellow?logo=javascript)](https://alvaro137.github.io)  
-- **Descripción**: Interfaz web para monitorear datos de la estación meteorológica via MQTT.  
-- **Stack**: Javascript.  
-- **Demo**: [Ver en vivo]([https://alvaro137.github.io](https://alvaro137.github.io/Sainlogic_esp32_wifi/))  
+- **Descripción**: Interfaz web para monitorear datos de la estación meteorológica.  
+- **Stack**: Javascript.
+- **Demo**: [Ver en vivo](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
 
 ### 🚧 **Proyectos en Preparación (Código por venir)**  
 - **Estación Meteorológica IoT**: Adición de WiFi a una estación meteorológica Sainlogic con un ESP32 (C++), integración con MQTT.  
@@ -28,7 +52,7 @@
 ## 🔌 Stack Tecnológico  
 | **Área**            | **Herramientas**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Lenguajes**        | Dart/Flutter, Python, C++, JavaScript, Fortran, Mathematica, SQL, Git         |
+| **Lenguajes**        | Python, C++, JavaScript, Fortran, Mathematica, SQL, Git                       |
 | **Hardware**         | ESP32, Protocolos IoT, Instrumentación científica                             |
 | **Análisis**         | Pandas, Matplotlib, Jupyter Notebook, Estadística Aplicada                    |
 
