@@ -56,8 +56,7 @@ Sistema completo que convierte tu estación meteorológica Sainlogic FT0835 en u
 C++ • PlatformIO • HTML • CSS • JavaScript • GitHub Pages 
 
 
-### 🚧 **Proyectos en Preparación (Código por venir)**  
-- **Estación Meteorológica IoT**: Adición de WiFi a una estación meteorológica Sainlogic con un ESP32 (C++), integración con MQTT.  
+### 🚧 **Proyectos en Preparación (Código por subir o terminar)**  
 - **Adaptador PS2/Switch**: Reverse engineering de protocolos HID con ESP32-S3 (Arduino), adaptación de un volante de PS2 para Nintendo Switch.  
 - **Automatización Laboratorio**: Control de equipos Keithley via Python + análisis estadístico.
 - **Simulación Montecarlo**: Simulación de montecarlo de un gas ideal hecha en Fortran.  
