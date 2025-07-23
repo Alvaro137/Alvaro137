@@ -70,12 +70,6 @@ C++ • PlatformIO • HTML • CSS • JavaScript • GitHub Pages
 | **Hardware**         | ESP32, Protocolos IoT, Instrumentación científica                             |
 | **Análisis**         | Pandas, Matplotlib, Jupyter Notebook, Estadística Aplicada                    |
 
-## 📊 Estadísticas de Código  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvaro137&show_icons=true&theme=dark&hide_border=true"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro137&layout=compact&theme=dark&hide_border=true"/>  
-</div>  
-
 ---
 
 ## 📩 Contacto  
