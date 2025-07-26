@@ -1,16 +1,14 @@
 # 👋 ¡Hola! Soy Álvaro
-Graduado en física | Análisis de datos | ML | Python | C++ | I+D
+👨‍🔬 Físico | 🧠 Data Analyst & ML | 💻 Python, C++, Fortran | ⚙️ I+D y Sistemas Embebidos
 
-Físico graduado por la Universidad de Salamanca (USAL), con un fuerte interés en el análisis de datos, el desarrollo de software y la resolución de problemas complejos. Durante mi Trabajo de Fin de Grado —*“Caracterización de dispositivos memristivos en materiales 2D”*— apliqué técnicas de automatización y análisis de datos que despertaron mi interés por el potencial del **data science** más allá del laboratorio.
+Físico graduado por la Universidad de Salamanca (USAL), con un fuerte interés en el análisis de datos, el desarrollo de software, los sistemas embebidos y la resolución de problemas complejos. 
 
 ---
 
 ## 🧠 Sobre mí
 
 - 🎓 Formación sólida en física, matemáticas y estadística.
-- 🧪 Experiencia en investigación y proyectos I+D.
 - 🧰 Programador en **Python**, **C++** y **Fortran**, con experiencia en desarrollo de herramientas científicas y análisis de datos.
-- 📈 Apasionado por la ciencia de datos, machine learning y el uso de la tecnología para resolver problemas reales.
 - 🧑‍💻 He realizado varios **proyectos personales** que puedes consultar en este perfil.
 - 🧠 En constante aprendizaje: completé formaciones en ciencia de datos, aprendizaje automático y desarrollo backend.
 
@@ -22,7 +20,7 @@ Actualmente estoy buscando una oportunidad como:
 
 - Junior **Data Scientist**
 - **Analista de Datos**
-- **Desarrollador de Software** (con orientación científica o industrial)
+- **Desarrollador de Software orientado a aplicaciones científicas o industriales**
 
 Estoy especialmente interesado en los sectores **tecnológico** e **industrial**, donde pueda aplicar mis conocimientos científicos y seguir creciendo profesionalmente en entornos colaborativos y con impacto real.
 
@@ -43,7 +41,7 @@ Estoy especialmente interesado en los sectores **tecnológico** e **industrial**
 **Demo/Web:** [https://alvaro137.github.io/Sainlogic_esp32_wifi/](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
 
 **Descripción:**  
-Sistema completo que convierte tu estación meteorológica Sainlogic FT0835 en un dispositivo IoT:  
+Sistema completo que convierte tu estación meteorológica Sainlogic FT0835 en un dispositivo IoT, permitiéndote ver sus datos en tiempo real y sus datos históricos:  
 - **Firmware ESP32 (C++ / PlatformIO):**  
   - Lee sensores de temp., humedad, presión, viento y lluvia.  
   - Conecta a WiFi y publica datos vía HTTP/MQTT o ThingSpeak.  
@@ -56,10 +54,31 @@ Sistema completo que convierte tu estación meteorológica Sainlogic FT0835 en u
 C++ • PlatformIO • HTML • CSS • JavaScript • GitHub Pages 
 
 
-### 🚧 **Proyectos en Preparación (Código por subir o terminar)**  
-- **Adaptador PS2/Switch**: Reverse engineering de protocolos HID con ESP32-S3 (Arduino), adaptación de un volante de PS2 para Nintendo Switch.  
-- **Automatización Laboratorio**: Control de equipos Keithley via Python + análisis estadístico.
-- **Simulación Montecarlo**: Simulación de montecarlo de un gas ideal hecha en Fortran.  
+### 2. 🎮 ps2-to-switch-controller-adapter
+Reverse engineering de protocolos HID que permite leer las entradas de un volante de PlayStation 2 (botones, D‑Pad, volante y pedales) y traducirlas a comandos de un gamepad de Nintendo Switch usando un ESP32 con soporte OTG (probado en un ESP32‑S3). De esta manera, se puede usar cualquier volante con pedales de PS2, muy baratos de segunda mano, a diferencia de los volantes y pedales compatibles con la Switch. 
+
+**Stack:**  
+C++ • PlatformIO
+
+### 3. ⚡ Keithley-2600B-Pulse-Control
+Script que permite controlar una SMU Keithley 2600B mediante comandos TSP usando pyvisa en Python. Se utiliza para aplicar trenes de pulsos eléctricos de escritura y lectura sobre dispositivos memristivos, obteniendo su resistencia y guardando automáticamente los resultados del experimento en formatos estructurados.
+
+**Stack:**  
+Python • TSP
+
+### 4. 🌐 Web_django
+Proyecto de app web desarrollada con Django y Python (2023)
+Diseñada como práctica completa de desarrollo web: incluye modelo de datos, formularios, procesamiento de archivos, envío de correos y despliegue en servicios cloud.
+Gestión con SQLite, permite operaciones CRUD completas.
+
+**Stack:**  
+Python (Django) • HTML • CSS
+
+### 🛠️ Proyectos en desarrollo
+_(Repositorios privados o en preparación para publicación)_
+
+- 🧪 **Simulación Montecarlo:** Modelo estadístico de un gas ideal en Fortran.
+- 📊 **Scraping + análisis de datos deportivos:** Análisis de rutinas de Calisteniapp.
 
 ---
 
