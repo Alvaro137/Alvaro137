@@ -33,7 +33,7 @@ Estoy especialmente interesado en los sectores **tecnológico** e **industrial**
 
 ## 🛠️ Proyectos Destacados  
 
-### 1. 🌦️ Sainlogic_esp32_wifi  
+### 1. 🌦️ Sainlogic_esp32_wifi (en desarrollo)
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Firmware-blue?logo=platformio)](https://github.com/Alvaro137/Sainlogic_esp32_wifi/tree/master/esp32)  
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Web-green)](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
 
@@ -55,18 +55,30 @@ C++ • PlatformIO • HTML • CSS • JavaScript • GitHub Pages
 
 
 ### 2. 🎮 ps2-to-switch-controller-adapter
+
+**Repositorio:** https://github.com/Alvaro137/ps2-to-switch-controller-adapter  
+
 Reverse engineering de protocolos HID que permite leer las entradas de un volante de PlayStation 2 (botones, D‑Pad, volante y pedales) y traducirlas a comandos de un gamepad de Nintendo Switch usando un ESP32 con soporte OTG (probado en un ESP32‑S3). De esta manera, se puede usar cualquier volante con pedales de PS2, muy baratos de segunda mano, a diferencia de los volantes y pedales compatibles con la Switch. 
 
 **Stack:**  
 C++ • PlatformIO
 
 ### 3. ⚡ Keithley-2600B-Pulse-Control
+
+**Repositorio:** https://github.com/Alvaro137/Keithley-2600B-Pulse-Control 
+
+
 Script que permite controlar una SMU Keithley 2600B mediante comandos TSP usando pyvisa en Python. Se utiliza para aplicar trenes de pulsos eléctricos de escritura y lectura sobre dispositivos memristivos, obteniendo su resistencia y guardando automáticamente los resultados del experimento en formatos estructurados.
 
 **Stack:**  
 Python • TSP
 
 ### 4. 🌐 Web_django
+
+
+**Repositorio:** https://github.com/Alvaro137/Web_django
+
+
 Proyecto de app web desarrollada con Django y Python (2023)
 Diseñada como práctica completa de desarrollo web: incluye modelo de datos, formularios, procesamiento de archivos, envío de correos y despliegue en servicios cloud.
 Gestión con SQLite, permite operaciones CRUD completas.
