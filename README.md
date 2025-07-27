@@ -91,6 +91,8 @@ _(Repositorios privados o en preparación para publicación)_
 
 - 🧪 **Simulación Montecarlo:** Modelo estadístico de un gas ideal en Fortran.
 - 📊 **Scraping + análisis de datos deportivos:** Análisis de rutinas de Calisteniapp.
+- 📊 **análisis y ML para datos meteorológicos** Análisis y entrenamiento de modelos sobre los datos de la estación del proyecto 1.
+  
 
 ---
 
