@@ -1,16 +1,16 @@
-# 👋 ¡Hola! Soy Álvaro
-👨‍🔬 Físico | 🧠 Data Analyst & ML | 💻 Python, C++, Fortran | ⚙️ I+D y Sistemas Embebidos
+# ¡Hola! Soy Álvaro
+Físico | Data Analyst & ML | Python, C++, Fortran | I+D y Sistemas Embebidos
 
 Físico graduado por la Universidad de Salamanca (USAL), con un fuerte interés en el análisis de datos, el desarrollo de software, los sistemas embebidos y la resolución de problemas complejos. 
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
-- 🎓 Formación sólida en física, matemáticas y estadística.
-- 🧰 Programador en **Python**, **C++** y **Fortran**, con experiencia en desarrollo de herramientas científicas y análisis de datos.
-- 🧑‍💻 He realizado varios **proyectos personales** que puedes consultar en este perfil.
-- 🧠 En constante aprendizaje: completé formaciones en ciencia de datos, aprendizaje automático y desarrollo backend.
+- Formación sólida en física, matemáticas y estadística.
+- Programador en **Python**, **C++** y **Fortran**, con experiencia en desarrollo de herramientas científicas y análisis de datos.
+- He realizado varios **proyectos personales** que puedes consultar en este perfil.
+- En constante aprendizaje: completé formaciones en ciencia de datos, aprendizaje automático y desarrollo backend.
 
 ---
 
@@ -31,7 +31,7 @@ Estoy especialmente interesado en los sectores **tecnológico** e **industrial**
 ---
 
 
-## 🛠️ Proyectos Destacados  
+## Proyectos Destacados  
 
 ### 1. 🌦️ Sainlogic_esp32_wifi (en desarrollo)
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Firmware-blue?logo=platformio)](https://github.com/Alvaro137/Sainlogic_esp32_wifi/tree/master/esp32)  
@@ -86,7 +86,7 @@ Gestión con SQLite, permite operaciones CRUD completas.
 **Stack:**  
 Python (Django) • HTML • CSS
 
-### 🛠️ Proyectos en desarrollo
+### Proyectos en desarrollo
 _(Repositorios privados o en preparación para publicación)_
 
 - 🧪 **Simulación Montecarlo:** Modelo estadístico de un gas ideal en Fortran.
@@ -96,7 +96,7 @@ _(Repositorios privados o en preparación para publicación)_
 
 ---
 
-## 🔌 Stack Tecnológico  
+## Stack Tecnológico  
 | **Área**            | **Herramientas**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Lenguajes**        | Python, C++, JavaScript, Fortran, Mathematica, SQL, Git                       |
