@@ -73,27 +73,6 @@ Script que permite controlar una SMU Keithley 2600B mediante comandos TSP usando
 **Stack:**  
 Python • TSP
 
-### 4. 🌐 Web_django
-
-
-**Repositorio:** https://github.com/Alvaro137/Web_django
-
-
-Proyecto de app web desarrollada con Django y Python (2023)
-Diseñada como práctica completa de desarrollo web: incluye modelo de datos, formularios, procesamiento de archivos, envío de correos y despliegue en servicios cloud.
-Gestión con SQLite, permite operaciones CRUD completas.
-
-**Stack:**  
-Python (Django) • HTML • CSS
-
-### Proyectos en desarrollo
-_(Repositorios privados o en preparación para publicación)_
-
-- 🧪 **Simulación Montecarlo:** Modelo estadístico de un gas ideal en Fortran.
-- 📊 **Scraping + análisis de datos deportivos:** Análisis de rutinas de Calisteniapp.
-- 📊 **análisis y ML para datos meteorológicos** Análisis y entrenamiento de modelos sobre los datos de la estación del proyecto 1.
-  
-
 ---
 
 ## Stack Tecnológico  
