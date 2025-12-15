@@ -18,40 +18,37 @@ Físico graduado por la Universidad de Salamanca (USAL), con un fuerte interés 
 
 Actualmente estoy buscando una oportunidad como:
 
-- Junior **Data Scientist**
-- **Analista de Datos**
-- **Desarrollador de Software orientado a aplicaciones científicas o industriales**
+- **Data Scientist**
+- **Desarrollador de Software**
 
-Estoy especialmente interesado en los sectores **tecnológico** e **industrial**, donde pueda aplicar mis conocimientos científicos y seguir creciendo profesionalmente en entornos colaborativos y con impacto real.
-
-> ✅ Disponible para incorporación inmediata  
-> 🤝 Abierto a colaboraciones, mentoría o networking  
-
+Estoy especialmente interesado en los sectores **tecnológico** e **industrial**, donde pueda aplicar mis conocimientos científicos y seguir creciendo profesionalmente en proyectos con impacto real.
 
 ---
 
 
 ## Proyectos Destacados  
 
-### 1. 🌦️ Sainlogic_esp32_wifi (en desarrollo)
+### 1. 🌦️ Sainlogic_esp32_wifi
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Firmware-blue?logo=platformio)](https://github.com/Alvaro137/Sainlogic_esp32_wifi/tree/master/esp32)  
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Web-green)](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
 
 **Repositorio:** https://github.com/Alvaro137/Sainlogic_esp32_wifi  
-**Demo/Web:** [https://alvaro137.github.io/Sainlogic_esp32_wifi/](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
+**Demo/Web:** [https://varo137.ddns.net/](https://varo137.ddns.net/)
 
 **Descripción:**  
 Sistema completo que convierte tu estación meteorológica Sainlogic FT0835 en un dispositivo IoT, permitiéndote ver sus datos en tiempo real y sus datos históricos:  
 - **Firmware ESP32 (C++ / PlatformIO):**  
   - Lee sensores de temp., humedad, presión, viento y lluvia.  
-  - Conecta a WiFi y publica datos vía HTTP/MQTT o ThingSpeak.  
-- **Frontend Web (HTML/CSS/JS en `docs/`):**  
-  - Gráficos interactivos filtrables por fecha (charts.js).  
-  - Tablas resumen y diseño responsive.  
-  - Desplegado en GitHub Pages para acceso inmediato.
+  - Conecta a WiFi y publica datos vía HTTP.  
+- **Servidor (FastApi / Caddy):**  
+  - Procesa y decodifica los datos, guardándolos en una base de datos SQLite.
+  - Sirve la información al frontend.  
+- **Frontend Web:**  
+  - Visualización en tiempo real
+  - Exportación de histórico
 
 **Stack:**  
-C++ • PlatformIO • HTML • CSS • JavaScript • GitHub Pages 
+C++ • PlatformIO • FastApi (Python) • JavaScript 
 
 
 ### 2. 🎮 ps2-to-switch-controller-adapter
