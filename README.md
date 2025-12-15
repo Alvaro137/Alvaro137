@@ -1,31 +1,3 @@
-# ¡Hola! Soy Álvaro
-Físico | Data Analyst & ML | Python, C++, Fortran | I+D y Sistemas Embebidos
-
-Físico graduado por la Universidad de Salamanca (USAL), con un fuerte interés en el análisis de datos, el desarrollo de software, los sistemas embebidos y la resolución de problemas complejos. 
-
----
-
-## Sobre mí
-
-- Formación sólida en física, matemáticas y estadística.
-- Programador en **Python**, **C++** y **Fortran**, con experiencia en desarrollo de herramientas científicas y análisis de datos.
-- He realizado varios **proyectos personales** que puedes consultar en este perfil.
-- En constante aprendizaje: completé formaciones en ciencia de datos, aprendizaje automático y desarrollo backend.
-
----
-
-## 🎯 Busco...
-
-Actualmente estoy buscando una oportunidad como:
-
-- **Data Scientist**
-- **Desarrollador de Software**
-
-Estoy especialmente interesado en los sectores **tecnológico** e **industrial**, donde pueda aplicar mis conocimientos científicos y seguir creciendo profesionalmente en proyectos con impacto real.
-
----
-
-
 ## Proyectos Destacados  
 
 ### 1. 🌦️ Sainlogic_esp32_wifi
