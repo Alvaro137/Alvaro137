@@ -1,6 +1,6 @@
 ## Proyectos Destacados  
 
-### 1. 🌦️ Sainlogic_esp32_wifi
+### 1. Sainlogic_esp32_wifi
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Firmware-blue?logo=platformio)](https://github.com/Alvaro137/Sainlogic_esp32_wifi/tree/master/esp32)  
 
 **Repositorio:** https://github.com/Alvaro137/Sainlogic_esp32_wifi  
@@ -22,7 +22,7 @@ Firmware ESP32 y web full stack desplegada en servidor local. Convierte tu estac
 C++ • PlatformIO • FastApi (Python) • JavaScript 
 
 
-### 2. 🎮 ps2-to-switch-controller-adapter
+### 2. ps2-to-switch-controller-adapter
 
 **Repositorio:** https://github.com/Alvaro137/ps2-to-switch-controller-adapter  
 
@@ -31,7 +31,7 @@ Permite leer las entradas de un volante de PlayStation 2 (botones, D‑Pad, vol
 **Stack:**  
 C++ • PlatformIO
 
-### 3. ⚡ Keithley-2600B-Pulse-Control
+### 3. Keithley-2600B-Pulse-Control
 
 **Repositorio:** https://github.com/Alvaro137/Keithley-2600B-Pulse-Control 
 
