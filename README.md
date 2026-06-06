@@ -2,19 +2,18 @@
 
 ### 1. 🌦️ Sainlogic_esp32_wifi
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Firmware-blue?logo=platformio)](https://github.com/Alvaro137/Sainlogic_esp32_wifi/tree/master/esp32)  
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Web-green)](https://alvaro137.github.io/Sainlogic_esp32_wifi/)  
 
 **Repositorio:** https://github.com/Alvaro137/Sainlogic_esp32_wifi  
 **Demo/Web:** [https://varo137.ddns.net/](https://varo137.ddns.net/)
 
 **Descripción:**  
-Sistema completo que convierte tu estación meteorológica Sainlogic FT0835 en un dispositivo IoT, permitiéndote ver sus datos en tiempo real y sus datos históricos:  
+Firmware ESP32 y web full stack desplegada en servidor local. Convierte tu estación meteorológica Sainlogic FT0835 en un dispositivo IoT, permitiéndote ver sus datos en tiempo real y sus históricos:
 - **Firmware ESP32 (C++ / PlatformIO):**  
-  - Lee sensores de temp., humedad, presión, viento y lluvia.  
+  - Muestrea y decodifica datos de sensores de temp., humedad, presión, viento y lluvia.  
   - Conecta a WiFi y publica datos vía HTTP.  
 - **Servidor (FastApi / Caddy):**  
   - Procesa y decodifica los datos, guardándolos en una base de datos SQLite.
-  - Sirve la información al frontend.  
+  - Sirve la información al frontend.
 - **Frontend Web:**  
   - Visualización en tiempo real
   - Exportación de histórico
@@ -27,7 +26,7 @@ C++ • PlatformIO • FastApi (Python) • JavaScript
 
 **Repositorio:** https://github.com/Alvaro137/ps2-to-switch-controller-adapter  
 
-Reverse engineering de protocolos HID que permite leer las entradas de un volante de PlayStation 2 (botones, D‑Pad, volante y pedales) y traducirlas a comandos de un gamepad de Nintendo Switch usando un ESP32 con soporte OTG (probado en un ESP32‑S3). De esta manera, se puede usar cualquier volante con pedales de PS2, muy baratos de segunda mano, a diferencia de los volantes y pedales compatibles con la Switch. 
+Permite leer las entradas de un volante de PlayStation 2 (botones, D‑Pad, volante y pedales) y traducirlas a comandos de un gamepad de Nintendo Switch usando un ESP32 con soporte OTG (probado en un ESP32‑S3). De esta manera, se puede usar cualquier volante con pedales de PS2, muy baratos de segunda mano, a diferencia de los volantes y pedales compatibles con la Switch. 
 
 **Stack:**  
 C++ • PlatformIO
